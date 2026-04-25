@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Phase0_Core/OperatingSystems/patterns"
+	"github.com/sanskarpan/Operating-Systems/patterns"
 )
 
 func main() {

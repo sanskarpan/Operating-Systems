@@ -12,11 +12,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Phase0_Core/OperatingSystems/concurrency"
-	"github.com/Phase0_Core/OperatingSystems/deadlock"
-	"github.com/Phase0_Core/OperatingSystems/io"
-	"github.com/Phase0_Core/OperatingSystems/memory"
-	"github.com/Phase0_Core/OperatingSystems/process"
+	"github.com/sanskarpan/Operating-Systems/concurrency"
+	"github.com/sanskarpan/Operating-Systems/deadlock"
+	"github.com/sanskarpan/Operating-Systems/io"
+	"github.com/sanskarpan/Operating-Systems/memory"
+	"github.com/sanskarpan/Operating-Systems/process"
 )
 
 func main() {
